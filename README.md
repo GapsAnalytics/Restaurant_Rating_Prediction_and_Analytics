@@ -2,6 +2,12 @@
 ### Project Overview
 This repository contains a machine learning model that predicts the aggregate rating of a restaurant based on its features. The target variable is Aggregate rating, which is predicted using various restaurant attributes like cost, location, votes, and other metadata.
 The project demonstrates the complete workflow of data preprocessing, model training, evaluation, and deployment using Python.
+
+![evaluation of restaurant model](https://github.com/user-attachments/assets/18f1f91c-db9d-4881-940f-07463a264f2c)
+![customer preference analysis](https://github.com/user-attachments/assets/a7b9b5c0-6064-464a-8a28-c844f9f06ca4)
+![customer preference analysis 2](https://github.com/user-attachments/assets/a1349c04-01e1-4e2a-ac97-df446291ed8a)
+![data visualization of features](https://github.com/user-attachments/assets/5a3355ea-2dc2-468b-a3f1-ae2cb43fa40e)
+
 ### Tools
 - MS Excel -Data Cleaning
 - Python Programming Language- EDA and visualization
